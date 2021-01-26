@@ -55,7 +55,7 @@ https://nikki7341.github.io/Pizza-Ecom-System-/
 - product-price {flex, space-between, center}
 - div {p.price} flex: 1; align: center; size: 2rem
 - button.button.primary Add To Cart
-#### 4.Filter Component
+#### 4. Filter Component
 - Create components/Filter.js
 - Add it above Products component in App.js
 - Update Filter.js render
@@ -68,7 +68,7 @@ https://nikki7341.github.io/Pizza-Ecom-System-/
 - filter-size {flex:1}
 - App.js
 - Add Filter Component
-#### 5.Cart Component
+#### 5. Cart Component
 - Product.js
 - Handle "Add To Cart" to this.props.addToCart(product)
 - App.js
@@ -82,7 +82,7 @@ https://nikki7341.github.io/Pizza-Ecom-System-/
 - index.css
 - Style cart, cart-header, cart-items (img, li),
 -Publish changes
-#### 6.Checkout Form
+#### 6. Checkout Form
 - Cart.js
 - Make cart items persistent
 - Use LocalStorage on App constructor to load cart items (JSON.parse)
@@ -95,7 +95,7 @@ https://nikki7341.github.io/Pizza-Ecom-System-/
 - Add Checkout Button
 - Handle onSubmit Form Event by this.createOrder
 - Create order object and pass to parent to handle it
-#### 7.Add Modal and Animation
+#### 7. Add Modal and Animation
 - Show Animation
 - **Install react-reveal**
 - Create fade effect from bottom for products

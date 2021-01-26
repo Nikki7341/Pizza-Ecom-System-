@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "_id": "pizza1",
+            "title": "Margherita",
+            "image": "/images/pizza-1.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot.",
+            "price": 120
+        },
+        {
+            "_id": "pizza2",
+            "title": "Double cheese Marghrita",
+            "image": "/images/pizza-2.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot.",
+            "price": 102
+        },
+        {
+            "_id": "pizza3",
+            "title": "Farm House",
+            "image": "/images/pizza-3.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot.",
+            "price": 165
+        },
+        {
+            "_id": "pizza4",
+            "title": "Peppy Paneer",
+            "image": "/images/pizza-4.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. ",
+            "price": 109
+        },
+        {
+            "_id": "pizza5",
+            "title": "Mexican Green Wave",
+            "image": "/images/pizza-5.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. ",
+            "price": 188
+        },
+        {
+            "_id": "pizza6",
+            "title": "Deluxe Veggie",
+            "image": "/images/hand tosed.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. ",
+            "price": 199
+        },
+        {
+            "_id": "pizza7",
+            "title": "Veg Extravaganza",
+            "image": "/images/pizza-7.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. ",
+            "price": 229
+        },
+        {
+            "_id": "pizza8",
+            "title": "Cheese & Corn ",
+            "image": "/images/pizza-8.jpg",
+            "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually, in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. ",
+            "price": 250
+        },
+        {
+            "_id": "capsicum",
+            "title": "Add Capsicum to your Desired Pizaa",
+            "image": "/images/capsicum-new.jpg",
+            "description": "Add Capsicum to your Desired Pizaa, You Can not Add or buy only this, You must have to Select the pizza From pizza variety ",
+            "price": 30
+        },
+        {
+            "_id": "paneer",
+            "title": "Add Paneer to your Pizza",
+            "image": "/images/paneer-new.JPG",
+            "description": "Add paneer to your Desired Pizaa, You Can not Add or buy only this, You must have to Select the pizza From pizza variety ",
+            "price": 50
+        },
+        {
+            "_id": "corn",
+            "title": "Add Corn to your Desired Pizaa",
+            "image": "/images/corn-new.jpg",
+            "description": "Add Corn to your Desired Pizaa, You Can not Add or buy only this, You must have to Select the pizza From pizza variety ",
+            "price": 20
+        },
+        {
+            "_id": "Hand-tossed",
+            "title": "Hand Tossed Pizza",
+            "image": "/images/hand tosed-new.jpg",
+            "description": "Hand Tossed Pizza, You Can not Add or buy only this, You must have to Select the pizza From pizza variety ",
+            "price": 80
+        },
+        {
+            "_id": "normal",
+            "title": "Normal Pizza",
+            "image": "/images/normal-new.jpg",
+            "description": "Noraml Pizza, You Can not Add or buy only this, You must have to Select the pizza From pizza variety ",
+            "price": 70
+        },
+        {
+            "_id": "cheese-brust",
+            "title": "Cheese Brust Pizza",
+            "image": "/images/chees brust-new.jpg",
+            "description": "Cheese Brust Pizza, You Can not Add or buy only this, You must have to Select the pizza From pizza variety",
+            "price": 100
+        }
+
+
+    ]
+}

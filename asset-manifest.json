@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pizza-Ecom-System-/static/css/main.edab6902.chunk.css",
+    "main.js": "/Pizza-Ecom-System-/static/js/main.3eb61cd2.chunk.js",
+    "main.js.map": "/Pizza-Ecom-System-/static/js/main.3eb61cd2.chunk.js.map",
+    "runtime-main.js": "/Pizza-Ecom-System-/static/js/runtime-main.28351ef9.js",
+    "runtime-main.js.map": "/Pizza-Ecom-System-/static/js/runtime-main.28351ef9.js.map",
+    "static/js/2.6d61ea82.chunk.js": "/Pizza-Ecom-System-/static/js/2.6d61ea82.chunk.js",
+    "static/js/2.6d61ea82.chunk.js.map": "/Pizza-Ecom-System-/static/js/2.6d61ea82.chunk.js.map",
+    "index.html": "/Pizza-Ecom-System-/index.html",
+    "static/css/main.edab6902.chunk.css.map": "/Pizza-Ecom-System-/static/css/main.edab6902.chunk.css.map",
+    "static/js/2.6d61ea82.chunk.js.LICENSE.txt": "/Pizza-Ecom-System-/static/js/2.6d61ea82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28351ef9.js",
+    "static/js/2.6d61ea82.chunk.js",
+    "static/css/main.edab6902.chunk.css",
+    "static/js/main.3eb61cd2.chunk.js"
+  ]
+}

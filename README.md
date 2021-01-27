@@ -1,7 +1,7 @@
 # React Pizza Ecom System
 ## Here is the Active link of the site 
 
-https://nikki7341.github.io/Pizza-Ecom-System-/
+https://pizza-com-system.herokuapp.com/
 
 ## What I've Done in this 
 - Design Cart Using HTML and CSS
